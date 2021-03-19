@@ -1,0 +1,4 @@
+- 👋 Hey, I'm Math
+- 👀 I’m interested in Discord Bot Development
+- 🌱 I’m currently learning Discord.js
+- 📫 You can contact me on Discord (Math#1337)
